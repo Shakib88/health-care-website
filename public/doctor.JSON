@@ -1,0 +1,51 @@
+
+[
+
+    {
+    "id": 1,
+    "name": "Dr. William",
+    "description": "Dr. William was born in Australia in 1990 and grew up in Canada and Colorado. He is the first Chinese-American cast member of Saturday Night Live, as well as the first gay man to be part of the show for more than one season",
+    "visist price": "$50",
+    "image": "https://i.ibb.co/jH6dbnH/doctor-standing-with-folder-stethoscope.jpg"
+  },
+    {
+    "id": 2,
+    "name": "Dr. Myles",
+    "description": "Dr. Myles grew up as the youngest of six. Her twin sister Rachael also excelled at soccer through college. Though Rachael did not reach the very highest level of the sport alongside Rapinoe, the two remain close",
+    "visit price": "$50",
+    "image": "https://i.ibb.co/jGnzJHR/Happy-young-male-doctor-using-tablet-computer-Guy-wearing-white-coat-and-standing-Medicine-and-techn.jpg"
+  },
+    
+    {
+    "id": 3,
+    "name": "Dr. Fouad",
+    "description": "Dr. Fouad enjoyed early success as a bodybuilder before transitioning to professional wrestling. He became an immediate star after his 1987 arrival to WWE, his rapid ascent punctuated by a win over champion ",
+    "visit price": "$50",
+    "image": "https://i.ibb.co/QcRfBnr/medium-shot-doctor-with-crossed-arms.jpg"
+  },
+    
+    {
+    "id": 4,
+    "name": "Dr. Khalid",
+    "description": "A teenage Larry Itliong left the Philippines and arrived in the United States in 1929. Though he'd dreamed of studying law, Itliong first became a migrant worker, then a labor organizer who fought for better treatment and pay.",
+    "price": "$50",
+    "image": "https://i.ibb.co/Y04y0JS/medium-shot-smiley-man-wearing-coat.jpg"
+  },
+    
+    {
+    "id": 5,
+    "name": "Dr. Naresh",
+    "description": "It was during the early 1900s he produced his most innovative inventions – varying from kitchen gadgets to an automatically flushing toilet. He did so with the backing of Dadabhai Naoroji; who also had a long commercial career in England. ",
+    "price": "$50",
+    "image": "https://i.ibb.co/ZcqSQsr/portrait-male-doctor-hospital.jpg"
+  },
+    
+    {
+    "id": 6,
+    "name": "Dr. Mark. F.",
+    "description": "Payne studied astronomy at a time when there were very few women in the field. She began her journey when she was granted a scholarship to Cambridge University to study physics.",
+    "price": "$50",
+    "image": "https://i.ibb.co/njYRF9C/Portrait-of-a-positive-young-male-dentist-in-uniform-at-the-dental-office.jpg"
+  }
+    
+]
